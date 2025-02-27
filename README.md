@@ -20,8 +20,8 @@ JsBot/
 
 ### 1. Клонирование репозитория
 ```sh
- git clone <репозиторий>
- cd JsBot
+ git clone https://github.com/Progress-ux/JSDiscordBot.git
+ cd JSDiscordBot
 ```
 
 ### 2. Установка зависимостей
@@ -30,7 +30,7 @@ JsBot/
 ```
 
 ### 3. Конфигурация
-Создайте `config.json` и добавьте токен бота:
+В `config.json` добавьте токен бота:
 ```json
 {
   "token": "ВАШ_ТОКЕН",
